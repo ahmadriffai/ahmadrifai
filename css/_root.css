@@ -1,0 +1,16 @@
+
+:root{
+    --primary-color : #161B3B;
+    --secondary-color : #F5F5FF;
+    --third-color: #27CFA7;
+}
+
+
+
+body,html{
+    padding: 0;
+    margin: 0;
+    background-color: var(--secondary-color);
+    padding-bottom: 1000px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
